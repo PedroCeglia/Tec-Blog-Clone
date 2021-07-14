@@ -42,6 +42,12 @@ body{
 #area-lateral{
 	width: 240px;
 	float: right;
+}
+#area-lateral2{
+	position: fixed;
+	right: 150px;
+	width: 240px;
+	float: right;
 	
 }
 .postagem{
@@ -97,6 +103,7 @@ a:link, a:visited{
 #cabecalho a:hover{
 	color: #f7b600;
 	background: #FFF;
+	text-decoration: none;
 }
 a:hover{
 	text-decoration: underline;
